@@ -1,2 +1,3 @@
 Ein lokaler Branch ist nur auf dem eigenen Rechner vorhanden. Änderungen sind nur auf diesem Rechner gültig. 
 Ein remote Branch ist hingegen online gespeichert bzw. gibt den Zustand des Branch wieder. Andere (berechtigte) Nutzer können hierauf zugreifen und vom aktuellen Stand weiterarbeiten. 
+Die Nutzer können auf dem gleichen Branch lokal arbeiten und diese später mergen.
